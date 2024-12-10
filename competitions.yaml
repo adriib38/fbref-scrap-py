@@ -1,0 +1,13 @@
+leagues:
+  - name: LaLiga
+    link: https://fbref.com/en/comps/12/La-Liga-Stats
+  - name: PremierLeague
+    link: https://fbref.com/en/comps/9/Premier-League-Stats
+  - name: SerieA
+    link: https://fbref.com/en/comps/11/Serie-A-Stats
+  - name: Bundesliga
+    link: https://fbref.com/en/comps/20/Bundesliga-Stats
+  - name: Ligue1
+    link: https://fbref.com/en/comps/13/Ligue-1-Stats
+  - name: Hypermotion 
+    link: https://fbref.com/en/comps/17/Segunda-Division-Stats
