@@ -1,11 +1,13 @@
 from utils import loadYaml
-from scraper import extractTable, saveInBBDD
+from classificationTable.scraper import extractTable, saveInBBDD as saveClassificationTableInBBDD
+from statsTeams.scraper import extractStatsTeam, saveInBBDD as saveStatsTeamsInBBDD
 
 def init():
     competitions = loadYaml("competitions.yaml")["leagues"]
     for comp in competitions:
         extractTable(comp)
-
-        saveInBBDD(comp['name'])
-
+        extractStatsTeam(comp)
+        
+        saveClassificationTableInBBDD(comp['name'])
+        saveStatsTeamsInBBDD(comp['name'])
 init()

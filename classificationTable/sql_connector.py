@@ -16,7 +16,6 @@ def createTable(tableName, df):
   createTableIfNotExist(tableName)
 
   cursor = mydb.cursor()
-
   cursor.execute(f"DELETE FROM {tableName}")
 
   sql = f"""
@@ -79,7 +78,8 @@ def createTableIfNotExist(tableName):
     Attendance VARCHAR(255),
     Top_Team_Scorer VARCHAR(255),
     Goalkeeper VARCHAR(255),
-    Notes FLOAT
+    Notes FLOAT,
+    created_at timestamp not null DEFAULT (CURRENT_timestamp)
   );
   """)
 
