@@ -1,13 +1,5 @@
 Rk;Squad;MP;W;D;L;GF;GA;GD;Pts;Pts_MP;xG;xGA;xGD;xGD_90;Last_5;Attendance;Top_Team_Scorer;Goalkeeper;Notes
 1;Bayern Munich;13;10;3;0;41;10;+31;33;2.54;29.9;8.1;+21.8;+1.68;WWWDW;75,000;Harry Kane-14;Manuel Neuer;
-2;Eint Frankfurt;13;8;3;2;33;18;+15;27;2.08;26.0;20.4;+5.6;+0.43;WWWWD;57,683;Omar Marmoush-13;Kevin Trapp;
-3;Leverkusen;13;7;5;1;30;20;+10;26;2.00;25.0;15.3;+9.6;+0.74;DDWWW;29,830;Victor Boniface-6;Lukáš Hrádecký;
-4;RB Leipzig;13;7;3;3;21;14;+7;24;1.85;18.2;17.8;+0.4;+0.03;LDLLW;44,936;Loïs Openda-5;Péter Gulácsi;
-5;Freiburg;14;7;3;4;20;19;+1;24;1.71;20.9;15.1;+5.8;+0.41;DLWDW;34,100;Ritsu Doan-5;Noah Atubolu;
-6;Wolfsburg;14;6;3;5;31;25;+6;21;1.50;20.1;23.3;-3.1;-0.22;WWWWL;25,555;Jonas Wind-6;Kamil Grabara;
-7;Dortmund;13;6;3;4;24;20;+4;21;1.62;19.4;16.8;+2.7;+0.20;WLWDD;81,365;Serhou Guirassy-6;Gregor Kobel;
-8;Stuttgart;13;5;5;3;26;23;+3;20;1.54;23.9;19.5;+4.4;+0.34;DLWDW;59,143;Ermedin Demirović-7;Alexander Nübel;
-9;Mainz 05;13;5;4;4;23;18;+5;19;1.46;19.0;17.1;+2.0;+0.15;DWWWL;31,643;Jonathan Burkardt-10;Robin Zentner;
 10;Werder Bremen;13;5;4;4;20;24;-4;19;1.46;16.8;18.3;-1.5;-0.12;LWLDW;41,920;Jens Stage-6;Michael Zetterer;
 11;Gladbach;13;5;3;5;19;18;+1;18;1.38;21.9;20.4;+1.4;+0.11;WDWLD;53,204;Tim Kleindienst-8;Moritz Nicolas;
 12;Union Berlin;13;4;4;5;12;14;-2;16;1.23;12.0;15.5;-3.5;-0.27;LDLLL;21,967;Benedict Hollerbach,Jeong Woo-yeong... -2;Frederik Rønnow;
@@ -17,3 +9,11 @@ Rk;Squad;MP;W;D;L;GF;GA;GD;Pts;Pts_MP;xG;xGA;xGD;xGD_90;Last_5;Attendance;Top_Te
 16;Heidenheim;13;3;1;9;17;28;-11;10;0.77;19.0;22.0;-3.0;-0.23;LLLLL;15,000;Marvin Pieringer-4;Kevin Müller;
 17;Holstein Kiel;13;1;2;10;13;33;-20;5;0.38;14.0;23.7;-9.7;-0.75;WLLLL;14,880;Shuto Machino-4;Timon Weiner;
 18;Bochum;13;0;2;11;10;34;-24;2;0.15;14.1;29.0;-14.9;-1.15;LDLLL;25,772;Matúš Bero,Dani de Wit... -2;Patrick Drewes;
+2;Eint Frankfurt;13;8;3;2;33;18;+15;27;2.08;26.0;20.4;+5.6;+0.43;WWWWD;57,683;Omar Marmoush-13;Kevin Trapp;
+3;Leverkusen;13;7;5;1;30;20;+10;26;2.00;25.0;15.3;+9.6;+0.74;DDWWW;29,830;Victor Boniface-6;Lukáš Hrádecký;
+4;RB Leipzig;13;7;3;3;21;14;+7;24;1.85;18.2;17.8;+0.4;+0.03;LDLLW;44,936;Loïs Openda-5;Péter Gulácsi;
+5;Freiburg;14;7;3;4;20;19;+1;24;1.71;20.9;15.1;+5.8;+0.41;DLWDW;34,100;Ritsu Doan-5;Noah Atubolu;
+6;Wolfsburg;14;6;3;5;31;25;+6;21;1.50;20.1;23.3;-3.1;-0.22;WWWWL;25,555;Jonas Wind-6;Kamil Grabara;
+7;Dortmund;13;6;3;4;24;20;+4;21;1.62;19.4;16.8;+2.7;+0.20;WLWDD;81,365;Serhou Guirassy-6;Gregor Kobel;
+8;Stuttgart;13;5;5;3;26;23;+3;20;1.54;23.9;19.5;+4.4;+0.34;DLWDW;59,143;Ermedin Demirović-7;Alexander Nübel;
+9;Mainz 05;13;5;4;4;23;18;+5;19;1.46;19.0;17.1;+2.0;+0.15;DWWWL;31,643;Jonathan Burkardt-10;Robin Zentner;

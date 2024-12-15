@@ -1,13 +1,19 @@
 leagues:
   - name: LaLiga
     link: https://fbref.com/en/comps/12/La-Liga-Stats
+    games: https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures
   - name: PremierLeague
     link: https://fbref.com/en/comps/9/Premier-League-Stats
+    games: https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
   - name: SerieA
     link: https://fbref.com/en/comps/11/Serie-A-Stats
+    games: https://fbref.com/en/comps/11/schedule/Serie-A-Scores-and-Fixtures
   - name: Bundesliga
     link: https://fbref.com/en/comps/20/Bundesliga-Stats
+    games: https://fbref.com/en/comps/20/schedule/Bundesliga-Scores-and-Fixtures
   - name: Ligue1
     link: https://fbref.com/en/comps/13/Ligue-1-Stats
+    games: https://fbref.com/en/comps/13/schedule/Ligue-1-Scores-and-Fixtures
   - name: Hypermotion 
     link: https://fbref.com/en/comps/17/Segunda-Division-Stats
+    games: https://fbref.com/en/comps/17/schedule/Segunda-Division-Scores-and-Fixtures

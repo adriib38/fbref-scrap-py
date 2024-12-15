@@ -1,0 +1,378 @@
+Wk;Day;Date;Time;Home;Home_xG;Score;Away_xG;Away;Attendance;Venue;Referee
+1;Fri;2024-08-16;20:00;Manchester Utd;2.4;1–0;0.4;Fulham;73,297;Old Trafford;Robert Jones
+1;Sat;2024-08-17;12:30;Ipswich Town;0.5;0–2;2.6;Liverpool;30,014;Portman Road Stadium;Tim Robinson
+1;Sat;2024-08-17;15:00;Newcastle Utd;0.3;1–0;1.8;Southampton;52,196;St James' Park;Craig Pawson
+1;Sat;2024-08-17;15:00;Nott'ham Forest;1.3;1–1;1.2;Bournemouth;29,763;The City Ground;Michael Oliver
+1;Sat;2024-08-17;15:00;Everton;0.5;0–3;1.4;Brighton;39,217;Goodison Park;Simon Hooper
+1;Sat;2024-08-17;15:00;Arsenal;1.2;2–0;0.5;Wolves;60,261;Emirates Stadium;Jarred Gillett
+1;Sat;2024-08-17;17:30;West Ham;2.3;1–2;2.0;Aston Villa;62,463;London Stadium;Tony Harrington
+1;Sun;2024-08-18;14:00;Brentford;1.6;2–1;1.2;Crystal Palace;16,988;Gtech Community Stadium;Samuel Barrott
+1;Sun;2024-08-18;16:30;Chelsea;1.0;0–2;0.8;Manchester City;39,818;Stamford Bridge;Anthony Taylor
+1;Mon;2024-08-19;20:00;Leicester City;1.0;1–1;1.2;Tottenham;31,977;King Power Stadium;Chris Kavanagh
+2;Sat;2024-08-24;12:30;Brighton;2.1;2–1;1.4;Manchester Utd;31,537;The American Express Stadium;Craig Pawson
+2;Sat;2024-08-24;15:00;Tottenham;2.4;4–0;1.0;Everton;61,357;Tottenham Hotspur Stadium;Anthony Taylor
+2;Sat;2024-08-24;15:00;Fulham;1.8;2–1;0.6;Leicester City;25,401;Craven Cottage;Darren Bond
+2;Sat;2024-08-24;15:00;Crystal Palace;1.3;0–2;1.4;West Ham;25,099;Selhurst Park;Robert Jones
+2;Sat;2024-08-24;15:00;Manchester City;3.3;4–1;0.3;Ipswich Town;53,147;Etihad Stadium;Samuel Allison
+2;Sat;2024-08-24;15:00;Southampton;0.1;0–1;2.2;Nott'ham Forest;31,150;St Mary's Stadium;Samuel Barrott
+2;Sat;2024-08-24;17:30;Aston Villa;1.2;0–2;0.9;Arsenal;41,587;Villa Park;Michael Oliver
+2;Sun;2024-08-25;14:00;Bournemouth;2.2;1–1;1.6;Newcastle Utd;11,161;Vitality Stadium;David Coote
+2;Sun;2024-08-25;14:00;Wolves;1.9;2–6;1.6;Chelsea;31,235;Molineux Stadium;Darren England
+2;Sun;2024-08-25;16:30;Liverpool;2.5;2–0;0.5;Brentford;60,017;Anfield;Stuart Attwell
+3;Sat;2024-08-31;12:30;Arsenal;2.1;1–1;1.7;Brighton;60,326;Emirates Stadium;Chris Kavanagh
+3;Sat;2024-08-31;15:00;Everton;1.8;2–3;2.4;Bournemouth;38,805;Goodison Park;Stuart Attwell
+3;Sat;2024-08-31;15:00;Leicester City;0.4;1–2;1.4;Aston Villa;31,725;King Power Stadium;David Coote
+3;Sat;2024-08-31;15:00;Nott'ham Forest;1.0;1–1;0.7;Wolves;29,918;The City Ground;Simon Hooper
+3;Sat;2024-08-31;15:00;Ipswich Town;0.4;1–1;0.9;Fulham;29,517;Portman Road Stadium;Lewis Smith
+3;Sat;2024-08-31;15:00;Brentford;2.8;3–1;1.5;Southampton;16,955;Gtech Community Stadium;Joshua Smith
+3;Sat;2024-08-31;17:30;West Ham;0.7;1–3;3.0;Manchester City;62,469;London Stadium;Michael Oliver
+3;Sun;2024-09-01;13:30;Newcastle Utd;1.8;2–1;1.2;Tottenham;52,211;St James' Park;Robert Jones
+3;Sun;2024-09-01;13:30;Chelsea;2.4;1–1;0.5;Crystal Palace;39,298;Stamford Bridge;Jarred Gillett
+3;Sun;2024-09-01;16:00;Manchester Utd;1.4;0–3;1.8;Liverpool;73,738;Old Trafford;Anthony Taylor
+4;Sat;2024-09-14;12:30;Southampton;1.1;0–3;2.6;Manchester Utd;31,144;St Mary's Stadium;Stuart Attwell
+4;Sat;2024-09-14;15:00;Brighton;1.6;0–0;0.3;Ipswich Town;41,573;The American Express Stadium;Samuel Barrott
+4;Sat;2024-09-14;15:00;Crystal Palace;2.5;2–2;1.2;Leicester City;25,147;Selhurst Park;Tony Harrington
+4;Sat;2024-09-14;15:00;Manchester City;2.1;2–1;1.0;Brentford;52,148;Etihad Stadium;Darren Bond
+4;Sat;2024-09-14;15:00;Liverpool;0.9;0–1;0.4;Nott'ham Forest;60,344;Anfield;Michael Oliver
+4;Sat;2024-09-14;15:00;Fulham;1.5;1–1;0.8;West Ham;26,528;Craven Cottage;Tim Robinson
+4;Sat;2024-09-14;17:30;Aston Villa;2.1;3–2;0.9;Everton;41,573;Villa Park;Craig Pawson
+4;Sat;2024-09-14;20:00;Bournemouth;1.7;0–1;0.8;Chelsea;11,235;Vitality Stadium;Anthony Taylor
+4;Sun;2024-09-15;14:00;Tottenham;0.7;0–1;0.7;Arsenal;61,645;Tottenham Hotspur Stadium;Jarred Gillett
+4;Sun;2024-09-15;16:30;Wolves;1.2;1–2;1.5;Newcastle Utd;30,255;Molineux Stadium;Chris Kavanagh
+5;Sat;2024-09-21;12:30;West Ham;0.9;0–3;2.2;Chelsea;62,473;London Stadium;Samuel Barrott
+5;Sat;2024-09-21;15:00;Liverpool;2.0;3–0;1.1;Bournemouth;60,347;Anfield;Tony Harrington
+5;Sat;2024-09-21;15:00;Leicester City;0.7;1–1;1.1;Everton;31,765;King Power Stadium;Darren England
+5;Sat;2024-09-21;15:00;Southampton;2.4;1–1;1.6;Ipswich Town;31,117;St Mary's Stadium;Samuel Allison
+5;Sat;2024-09-21;15:00;Tottenham;3.5;3–1;0.8;Brentford;61,246;Tottenham Hotspur Stadium;John Brooks
+5;Sat;2024-09-21;15:00;Fulham;2.2;3–1;1.5;Newcastle Utd;25,700;Craven Cottage;Peter Bankes
+5;Sat;2024-09-21;15:00;Aston Villa;1.7;3–1;0.5;Wolves;39,978;Villa Park;Tim Robinson
+5;Sat;2024-09-21;17:30;Crystal Palace;1.0;0–0;1.6;Manchester Utd;25,172;Selhurst Park;David Coote
+5;Sun;2024-09-22;14:00;Brighton;1.0;2–2;1.4;Nott'ham Forest;31,444;The American Express Stadium;Robert Jones
+5;Sun;2024-09-22;16:30;Manchester City;2.1;2–2;0.7;Arsenal;52,846;Etihad Stadium;Michael Oliver
+6;Sat;2024-09-28;12:30;Newcastle Utd;1.6;1–1;0.9;Manchester City;52,248;St James' Park;Jarred Gillett
+6;Sat;2024-09-28;15:00;Chelsea;4.2;4–2;1.1;Brighton;39,495;Stamford Bridge;Peter Bankes
+6;Sat;2024-09-28;15:00;Arsenal;4.4;4–2;0.3;Leicester City;60,323;Emirates Stadium;Samuel Barrott
+6;Sat;2024-09-28;15:00;Brentford;0.4;1–1;1.0;West Ham;17,050;Gtech Community Stadium;Simon Hooper
+6;Sat;2024-09-28;15:00;Everton;0.9;2–1;0.9;Crystal Palace;38,954;Goodison Park;Andy Madley
+6;Sat;2024-09-28;15:00;Nott'ham Forest;0.8;0–1;1.3;Fulham;30,139;The City Ground;Joshua Smith
+6;Sat;2024-09-28;17:30;Wolves;0.6;1–2;2.5;Liverpool;31,413;Molineux Stadium;Anthony Taylor
+6;Sun;2024-09-29;14:00;Ipswich Town;1.2;2–2;0.8;Aston Villa;29,943;Portman Road Stadium;Stuart Attwell
+6;Sun;2024-09-29;16:30;Manchester Utd;1.0;0–3;4.4;Tottenham;73,587;Old Trafford;Chris Kavanagh
+6;Mon;2024-09-30;20:00;Bournemouth;1.3;3–1;0.6;Southampton;11,243;Vitality Stadium;Michael Oliver
+7;Sat;2024-10-05;12:30;Crystal Palace;0.6;0–1;1.4;Liverpool;25,185;Selhurst Park;Simon Hooper
+7;Sat;2024-10-05;15:00;Manchester City;1.6;3–2;2.6;Fulham;53,017;Etihad Stadium;Peter Bankes
+7;Sat;2024-10-05;15:00;Brentford;4.2;5–3;1.0;Wolves;16,960;Gtech Community Stadium;Andy Madley
+7;Sat;2024-10-05;15:00;West Ham;3.6;4–1;0.6;Ipswich Town;62,467;London Stadium;Anthony Taylor
+7;Sat;2024-10-05;15:00;Arsenal;2.8;3–1;0.6;Southampton;60,307;Emirates Stadium;Tony Harrington
+7;Sat;2024-10-05;15:00;Leicester City;0.8;1–0;2.1;Bournemouth;31,706;King Power Stadium;Darren Bond
+7;Sat;2024-10-05;17:30;Everton;0.7;0–0;2.1;Newcastle Utd;39,265;Goodison Park;Craig Pawson
+7;Sun;2024-10-06;14:00;Aston Villa;0.5;0–0;0.6;Manchester Utd;42,682;Villa Park;Robert Jones
+7;Sun;2024-10-06;14:00;Chelsea;2.3;1–1;0.9;Nott'ham Forest;39,501;Stamford Bridge;Chris Kavanagh
+7;Sun;2024-10-06;16:30;Brighton;1.8;3–2;1.3;Tottenham;31,487;The American Express Stadium;David Coote
+8;Sat;2024-10-19;12:30;Tottenham;1.9;4–1;0.8;West Ham;61,381;Tottenham Hotspur Stadium;Andy Madley
+8;Sat;2024-10-19;15:00;Southampton;2.1;2–3;3.1;Leicester City;31,145;St Mary's Stadium;Anthony Taylor
+8;Sat;2024-10-19;15:00;Ipswich Town;1.3;0–2;1.7;Everton;29,862;Portman Road Stadium;Michael Oliver
+8;Sat;2024-10-19;15:00;Newcastle Utd;2.0;0–1;1.1;Brighton;52,220;St James' Park;Peter Bankes
+8;Sat;2024-10-19;15:00;Fulham;1.8;1–3;1.6;Aston Villa;26,743;Craven Cottage;Darren England
+8;Sat;2024-10-19;15:00;Manchester Utd;1.3;2–1;0.9;Brentford;73,738;Old Trafford;Samuel Barrott
+8;Sat;2024-10-19;17:30;Bournemouth;1.8;2–0;0.7;Arsenal;11,235;Vitality Stadium;Robert Jones
+8;Sun;2024-10-20;14:00;Wolves;0.8;1–2;1.6;Manchester City;31,319;Molineux Stadium;Chris Kavanagh
+8;Sun;2024-10-20;16:30;Liverpool;1.9;2–1;1.0;Chelsea;60,277;Anfield;John Brooks
+8;Mon;2024-10-21;20:00;Nott'ham Forest;1.7;1–0;1.0;Crystal Palace;29,443;The City Ground;Tim Robinson
+9;Fri;2024-10-25;20:00;Leicester City;0.8;1–3;1.7;Nott'ham Forest;31,879;King Power Stadium;Craig Pawson
+9;Sat;2024-10-26;15:00;Brentford;4.0;4–3;1.3;Ipswich Town;17,109;Gtech Community Stadium;Lewis Smith
+9;Sat;2024-10-26;15:00;Brighton;1.3;2–2;1.3;Wolves;31,840;The American Express Stadium;Michael Oliver
+9;Sat;2024-10-26;15:00;Manchester City;2.9;1–0;0.2;Southampton;52,844;Etihad Stadium;Tony Harrington
+9;Sat;2024-10-26;15:00;Aston Villa;1.8;1–1;0.3;Bournemouth;42,165;Villa Park;Chris Kavanagh
+9;Sat;2024-10-26;17:30;Everton;0.8;1–1;1.2;Fulham;38,742;Goodison Park;John Brooks
+9;Sun;2024-10-27;14:00;Chelsea;1.6;2–1;1.8;Newcastle Utd;39,526;Stamford Bridge;Simon Hooper
+9;Sun;2024-10-27;14:00;West Ham;2.8;2–1;2.3;Manchester Utd;62,474;London Stadium;David Coote
+9;Sun;2024-10-27;14:00;Crystal Palace;0.8;1–0;0.7;Tottenham;25,108;Selhurst Park;Darren Bond
+9;Sun;2024-10-27;16:30;Arsenal;0.9;2–2;0.8;Liverpool;60,383;Emirates Stadium;Anthony Taylor
+10;Sat;2024-11-02;12:30;Newcastle Utd;0.5;1–0;1.1;Arsenal;52,249;St James' Park;John Brooks
+10;Sat;2024-11-02;15:00;Southampton;0.7;1–0;1.6;Everton;31,143;St Mary's Stadium;Andy Madley
+10;Sat;2024-11-02;15:00;Liverpool;1.6;2–1;1.0;Brighton;60,331;Anfield;Tony Harrington
+10;Sat;2024-11-02;15:00;Nott'ham Forest;2.2;3–0;0.1;West Ham;30,112;The City Ground;Peter Bankes
+10;Sat;2024-11-02;15:00;Ipswich Town;1.0;1–1;1.5;Leicester City;29,874;Portman Road Stadium;Tim Robinson
+10;Sat;2024-11-02;15:00;Bournemouth;2.0;2–1;1.6;Manchester City;11,231;Vitality Stadium;Michael Oliver
+10;Sat;2024-11-02;17:30;Wolves;1.5;2–2;2.4;Crystal Palace;31,124;Molineux Stadium;Anthony Taylor
+10;Sun;2024-11-03;14:00;Tottenham;2.4;4–1;1.8;Aston Villa;61,253;Tottenham Hotspur Stadium;Craig Pawson
+10;Sun;2024-11-03;16:30;Manchester Utd;2.0;1–1;1.1;Chelsea;73,813;Old Trafford;Robert Jones
+10;Mon;2024-11-04;20:00;Fulham;1.3;2–1;0.6;Brentford;24,931;Craven Cottage;Stuart Attwell
+11;Sat;2024-11-09;15:00;Brentford;1.5;3–2;2.6;Bournemouth;16,587;Gtech Community Stadium;Darren Bond
+11;Sat;2024-11-09;15:00;West Ham;0.8;0–0;1.1;Everton;62,463;London Stadium;Stuart Attwell
+11;Sat;2024-11-09;15:00;Crystal Palace;1.5;0–2;1.8;Fulham;25,142;Selhurst Park;Michael Salisbury
+11;Sat;2024-11-09;15:00;Wolves;1.3;2–0;0.6;Southampton;31,403;Molineux Stadium;Thomas Bramall
+11;Sat;2024-11-09;17:30;Brighton;2.3;2–1;2.1;Manchester City;31,715;The American Express Stadium;Samuel Barrott
+11;Sat;2024-11-09;20:00;Liverpool;2.0;2–0;1.2;Aston Villa;60,292;Anfield;David Coote
+11;Sun;2024-11-10;14:00;Manchester Utd;0.8;3–0;0.6;Leicester City;73,829;Old Trafford;Peter Bankes
+11;Sun;2024-11-10;14:00;Nott'ham Forest;0.6;1–3;1.6;Newcastle Utd;30,145;The City Ground;Anthony Taylor
+11;Sun;2024-11-10;14:00;Tottenham;1.5;1–2;1.6;Ipswich Town;61,505;Tottenham Hotspur Stadium;Darren England
+11;Sun;2024-11-10;16:30;Chelsea;1.5;1–1;1.5;Arsenal;39,780;Stamford Bridge;Michael Oliver
+12;Sat;2024-11-23;12:30;Leicester City;1.1;1–2;2.7;Chelsea;31,880;King Power Stadium;Andy Madley
+12;Sat;2024-11-23;15:00;Arsenal;1.2;3–0;0.3;Nott'ham Forest;60,298;Emirates Stadium;Simon Hooper
+12;Sat;2024-11-23;15:00;Bournemouth;1.6;1–2;0.9;Brighton;11,196;Vitality Stadium;Stuart Attwell
+12;Sat;2024-11-23;15:00;Aston Villa;3.0;2–2;1.3;Crystal Palace;42,175;Villa Park;Tim Robinson
+12;Sat;2024-11-23;15:00;Everton;1.2;0–0;1.1;Brentford;38,915;Goodison Park;Chris Kavanagh
+12;Sat;2024-11-23;15:00;Fulham;1.0;1–4;1.3;Wolves;26,685;Craven Cottage;Robert Jones
+12;Sat;2024-11-23;17:30;Manchester City;2.1;0–4;2.5;Tottenham;52,478;Etihad Stadium;John Brooks
+12;Sun;2024-11-24;14:00;Southampton;1.3;2–3;3.1;Liverpool;31,278;St Mary's Stadium;Samuel Barrott
+12;Sun;2024-11-24;16:30;Ipswich Town;1.6;1–1;0.8;Manchester Utd;30,017;Portman Road Stadium;Anthony Taylor
+12;Mon;2024-11-25;20:00;Newcastle Utd;1.6;0–2;0.9;West Ham;52,094;St James' Park;Craig Pawson
+13;Fri;2024-11-29;20:00;Brighton;1.7;1–1;1.0;Southampton;31,542;The American Express Stadium;Robert Jones
+13;Sat;2024-11-30;15:00;Crystal Palace;1.7;1–1;0.0;Newcastle Utd;25,101;Selhurst Park;Darren England
+13;Sat;2024-11-30;15:00;Wolves;0.5;2–4;3.3;Bournemouth;26,685;Molineux Stadium;Peter Bankes
+13;Sat;2024-11-30;15:00;Nott'ham Forest;1.6;1–0;0.6;Ipswich Town;30,237;The City Ground;Tony Harrington
+13;Sat;2024-11-30;15:00;Brentford;2.4;4–1;1.1;Leicester City;17,084;Gtech Community Stadium;Michael Oliver
+13;Sat;2024-11-30;17:30;West Ham;1.5;2–5;3.5;Arsenal;62,475;London Stadium;Anthony Taylor
+13;Sun;2024-12-01;13:30;Chelsea;1.6;3–0;1.2;Aston Villa;40,853;Stamford Bridge;Stuart Attwell
+13;Sun;2024-12-01;13:30;Tottenham;0.8;1–1;1.5;Fulham;61,141;Tottenham Hotspur Stadium;Darren Bond
+13;Sun;2024-12-01;13:30;Manchester Utd;1.1;4–0;0.6;Everton;73,817;Old Trafford;John Brooks
+13;Sun;2024-12-01;16:00;Liverpool;3.4;2–0;0.8;Manchester City;60,248;Anfield;Chris Kavanagh
+14;Tue;2024-12-03;19:30;Ipswich Town;0.5;0–1;1.6;Crystal Palace;29,533;Portman Road Stadium;Craig Pawson
+14;Tue;2024-12-03;20:15;Leicester City;1.7;3–1;3.0;West Ham;30,947;King Power Stadium;Joshua Smith
+14;Wed;2024-12-04;19:30;Everton;1.0;4–0;0.8;Wolves;38,820;Goodison Park;Michael Salisbury
+14;Wed;2024-12-04;19:30;Newcastle Utd;2.1;3–3;1.9;Liverpool;52,237;St James' Park;Andy Madley
+14;Wed;2024-12-04;19:30;Manchester City;2.4;3–0;1.0;Nott'ham Forest;51,764;Etihad Stadium;Michael Oliver
+14;Wed;2024-12-04;19:30;Southampton;1.6;1–5;5.2;Chelsea;31,193;St Mary's Stadium;Tony Harrington
+14;Wed;2024-12-04;20:15;Arsenal;2.1;2–0;0.2;Manchester Utd;60,256;Emirates Stadium;Samuel Barrott
+14;Wed;2024-12-04;20:15;Aston Villa;2.4;3–1;0.9;Brentford;42,148;Villa Park;Lewis Smith
+14;Thu;2024-12-05;19:30;Fulham;1.1;3–1;1.4;Brighton;26,368;Craven Cottage;Peter Bankes
+14;Thu;2024-12-05;20:15;Bournemouth;3.5;1–0;0.9;Tottenham;11,234;Vitality Stadium;Simon Hooper
+15;Sat;2024-12-07;15:00;Brentford;1.2;4–2;1.5;Newcastle Utd;17,078;Gtech Community Stadium;Simon Hooper
+15;Sat;2024-12-07;15:00;Crystal Palace;1.3;2–2;1.4;Manchester City;25,142;Selhurst Park;Robert Jones
+15;Sat;2024-12-07;15:00;Aston Villa;2.3;1–0;0.3;Southampton;42,453;Villa Park;Darren Bond
+15;Sat;2024-12-07;17:30;Manchester Utd;1.6;2–3;0.8;Nott'ham Forest;73,778;Old Trafford;Darren England
+15;Sun;2024-12-08;14:00;Fulham;0.2;1–1;1.8;Arsenal;26,954;Craven Cottage;Chris Kavanagh
+15;Sun;2024-12-08;14:00;Ipswich Town;1.3;1–2;3.2;Bournemouth;29,180;Portman Road Stadium;Michael Salisbury
+15;Sun;2024-12-08;14:00;Leicester City;1.3;2–2;1.5;Brighton;31,647;King Power Stadium;Stuart Attwell
+15;Sun;2024-12-08;16:30;Tottenham;2.8;3–4;2.8;Chelsea;61,184;Tottenham Hotspur Stadium;Anthony Taylor
+15;Mon;2024-12-09;20:00;West Ham;1.0;2–1;1.4;Wolves;62,474;London Stadium;John Brooks
+16;Sat;2024-12-14;15:00;Newcastle Utd;3.9;4–0;0.2;Leicester City;52,235;St James' Park;Thomas Bramall
+16;Sat;2024-12-14;15:00;Arsenal;1.4;0–0;0.2;Everton;60,176;Emirates Stadium;Craig Pawson
+16;Sat;2024-12-14;15:00;Wolves;1.0;1–2;1.3;Ipswich Town;30,866;Molineux Stadium;Simon Hooper
+16;Sat;2024-12-14;15:00;Liverpool;2.1;2–2;1.2;Fulham;;Anfield;Tony Harrington
+16;Sat;2024-12-14;17:30;Nott'ham Forest;1.7;2–1;0.4;Aston Villa;30,117;The City Ground;Samuel Barrott
+16;Sun;2024-12-15;14:00;Brighton;;;;Crystal Palace;;The American Express Stadium;
+16;Sun;2024-12-15;16:30;Manchester City;;;;Manchester Utd;;Etihad Stadium;
+16;Sun;2024-12-15;19:00;Southampton;;;;Tottenham;;St Mary's Stadium;
+16;Sun;2024-12-15;19:00;Chelsea;;;;Brentford;;Stamford Bridge;
+16;Mon;2024-12-16;20:00;Bournemouth;;;;West Ham;;Vitality Stadium;
+17;Sat;2024-12-21;12:30;Aston Villa;;;;Manchester City;;Villa Park;
+17;Sat;2024-12-21;15:00;West Ham;;;;Brighton;;London Stadium;
+17;Sat;2024-12-21;15:00;Brentford;;;;Nott'ham Forest;;Gtech Community Stadium;
+17;Sat;2024-12-21;15:00;Ipswich Town;;;;Newcastle Utd;;Portman Road Stadium;
+17;Sat;2024-12-21;17:30;Crystal Palace;;;;Arsenal;;Selhurst Park;
+17;Sun;2024-12-22;14:00;Manchester Utd;;;;Bournemouth;;Old Trafford;
+17;Sun;2024-12-22;14:00;Fulham;;;;Southampton;;Craven Cottage;
+17;Sun;2024-12-22;14:00;Everton;;;;Chelsea;;Goodison Park;
+17;Sun;2024-12-22;14:00;Leicester City;;;;Wolves;;King Power Stadium;
+17;Sun;2024-12-22;16:30;Tottenham;;;;Liverpool;;Tottenham Hotspur Stadium;
+18;Thu;2024-12-26;12:30;Manchester City;;;;Everton;;Etihad Stadium;
+18;Thu;2024-12-26;15:00;Chelsea;;;;Fulham;;Stamford Bridge;
+18;Thu;2024-12-26;15:00;Southampton;;;;West Ham;;St Mary's Stadium;
+18;Thu;2024-12-26;15:00;Bournemouth;;;;Crystal Palace;;Vitality Stadium;
+18;Thu;2024-12-26;15:00;Newcastle Utd;;;;Aston Villa;;St James' Park;
+18;Thu;2024-12-26;15:00;Nott'ham Forest;;;;Tottenham;;The City Ground;
+18;Thu;2024-12-26;17:30;Wolves;;;;Manchester Utd;;Molineux Stadium;
+18;Thu;2024-12-26;20:00;Liverpool;;;;Leicester City;;Anfield;
+18;Fri;2024-12-27;19:30;Brighton;;;;Brentford;;The American Express Stadium;
+18;Fri;2024-12-27;20:15;Arsenal;;;;Ipswich Town;;Emirates Stadium;
+19;Sun;2024-12-29;14:30;Leicester City;;;;Manchester City;;King Power Stadium;
+19;Sun;2024-12-29;15:00;Tottenham;;;;Wolves;;Tottenham Hotspur Stadium;
+19;Sun;2024-12-29;15:00;Fulham;;;;Bournemouth;;Craven Cottage;
+19;Sun;2024-12-29;15:00;Everton;;;;Nott'ham Forest;;Goodison Park;
+19;Sun;2024-12-29;15:00;Crystal Palace;;;;Southampton;;Selhurst Park;
+19;Sun;2024-12-29;17:15;West Ham;;;;Liverpool;;London Stadium;
+19;Mon;2024-12-30;19:45;Aston Villa;;;;Brighton;;Villa Park;
+19;Mon;2024-12-30;19:45;Ipswich Town;;;;Chelsea;;Portman Road Stadium;
+19;Mon;2024-12-30;20:00;Manchester Utd;;;;Newcastle Utd;;Old Trafford;
+19;Wed;2025-01-01;17:30;Brentford;;;;Arsenal;;Gtech Community Stadium;
+20;Sat;2025-01-04;12:30;Tottenham;;;;Newcastle Utd;;Tottenham Hotspur Stadium;
+20;Sat;2025-01-04;15:00;Southampton;;;;Brentford;;St Mary's Stadium;
+20;Sat;2025-01-04;15:00;Bournemouth;;;;Everton;;Vitality Stadium;
+20;Sat;2025-01-04;15:00;Crystal Palace;;;;Chelsea;;Selhurst Park;
+20;Sat;2025-01-04;15:00;Manchester City;;;;West Ham;;Etihad Stadium;
+20;Sat;2025-01-04;15:00;Aston Villa;;;;Leicester City;;Villa Park;
+20;Sat;2025-01-04;17:30;Brighton;;;;Arsenal;;The American Express Stadium;
+20;Sun;2025-01-05;14:00;Fulham;;;;Ipswich Town;;Craven Cottage;
+20;Sun;2025-01-05;16:30;Liverpool;;;;Manchester Utd;;Anfield;
+20;Mon;2025-01-06;20:00;Wolves;;;;Nott'ham Forest;;Molineux Stadium;
+21;Tue;2025-01-14;19:30;Brentford;;;;Manchester City;;Gtech Community Stadium;
+21;Tue;2025-01-14;19:30;West Ham;;;;Fulham;;London Stadium;
+21;Tue;2025-01-14;19:30;Chelsea;;;;Bournemouth;;Stamford Bridge;
+21;Tue;2025-01-14;20:00;Nott'ham Forest;;;;Liverpool;;The City Ground;
+21;Wed;2025-01-15;19:30;Everton;;;;Aston Villa;;Goodison Park;
+21;Wed;2025-01-15;19:30;Newcastle Utd;;;;Wolves;;St James' Park;
+21;Wed;2025-01-15;19:30;Leicester City;;;;Crystal Palace;;King Power Stadium;
+21;Wed;2025-01-15;20:00;Arsenal;;;;Tottenham;;Emirates Stadium;
+21;Thu;2025-01-16;19:30;Ipswich Town;;;;Brighton;;Portman Road Stadium;
+21;Thu;2025-01-16;20:00;Manchester Utd;;;;Southampton;;Old Trafford;
+22;Sat;2025-01-18;12:30;Newcastle Utd;;;;Bournemouth;;St James' Park;
+22;Sat;2025-01-18;15:00;West Ham;;;;Crystal Palace;;London Stadium;
+22;Sat;2025-01-18;15:00;Brentford;;;;Liverpool;;Gtech Community Stadium;
+22;Sat;2025-01-18;15:00;Leicester City;;;;Fulham;;King Power Stadium;
+22;Sat;2025-01-18;17:30;Arsenal;;;;Aston Villa;;Emirates Stadium;
+22;Sun;2025-01-19;14:00;Manchester Utd;;;;Brighton;;Old Trafford;
+22;Sun;2025-01-19;14:00;Nott'ham Forest;;;;Southampton;;The City Ground;
+22;Sun;2025-01-19;14:00;Everton;;;;Tottenham;;Goodison Park;
+22;Sun;2025-01-19;16:30;Ipswich Town;;;;Manchester City;;Portman Road Stadium;
+22;Mon;2025-01-20;20:00;Chelsea;;;;Wolves;;Stamford Bridge;
+23;Sat;2025-01-25;15:00;Wolves;;;;Arsenal;;Molineux Stadium;
+23;Sat;2025-01-25;15:00;Southampton;;;;Newcastle Utd;;St Mary's Stadium;
+23;Sat;2025-01-25;15:00;Brighton;;;;Everton;;The American Express Stadium;
+23;Sat;2025-01-25;15:00;Liverpool;;;;Ipswich Town;;Anfield;
+23;Sat;2025-01-25;15:00;Bournemouth;;;;Nott'ham Forest;;Vitality Stadium;
+23;Sat;2025-01-25;17:30;Manchester City;;;;Chelsea;;Etihad Stadium;
+23;Sun;2025-01-26;14:00;Crystal Palace;;;;Brentford;;Selhurst Park;
+23;Sun;2025-01-26;14:00;Tottenham;;;;Leicester City;;Tottenham Hotspur Stadium;
+23;Sun;2025-01-26;16:30;Aston Villa;;;;West Ham;;Villa Park;
+23;Sun;2025-01-26;19:00;Fulham;;;;Manchester Utd;;Craven Cottage;
+24;Sat;2025-02-01;12:30;Nott'ham Forest;;;;Brighton;;The City Ground;
+24;Sat;2025-02-01;15:00;Ipswich Town;;;;Southampton;;Portman Road Stadium;
+24;Sat;2025-02-01;15:00;Everton;;;;Leicester City;;Goodison Park;
+24;Sat;2025-02-01;15:00;Newcastle Utd;;;;Fulham;;St James' Park;
+24;Sat;2025-02-01;15:00;Bournemouth;;;;Liverpool;;Vitality Stadium;
+24;Sat;2025-02-01;17:30;Wolves;;;;Aston Villa;;Molineux Stadium;
+24;Sun;2025-02-02;14:00;Brentford;;;;Tottenham;;Gtech Community Stadium;
+24;Sun;2025-02-02;14:00;Manchester Utd;;;;Crystal Palace;;Old Trafford;
+24;Sun;2025-02-02;16:30;Arsenal;;;;Manchester City;;Emirates Stadium;
+24;Mon;2025-02-03;20:00;Chelsea;;;;West Ham;;Stamford Bridge;
+25;Fri;2025-02-14;20:00;Brighton;;;;Chelsea;;The American Express Stadium;
+25;Sat;2025-02-15;12:30;Leicester City;;;;Arsenal;;King Power Stadium;
+25;Sat;2025-02-15;15:00;Aston Villa;;;;Ipswich Town;;Villa Park;
+25;Sat;2025-02-15;15:00;Fulham;;;;Nott'ham Forest;;Craven Cottage;
+25;Sat;2025-02-15;15:00;West Ham;;;;Brentford;;London Stadium;
+25;Sat;2025-02-15;15:00;Manchester City;;;;Newcastle Utd;;Etihad Stadium;
+25;Sat;2025-02-15;15:00;Southampton;;;;Bournemouth;;St Mary's Stadium;
+25;Sat;2025-02-15;17:30;Crystal Palace;;;;Everton;;Selhurst Park;
+25;Sun;2025-02-16;14:00;Liverpool;;;;Wolves;;Anfield;
+25;Sun;2025-02-16;16:30;Tottenham;;;;Manchester Utd;;Tottenham Hotspur Stadium;
+26;Fri;2025-02-21;20:00;Leicester City;;;;Brentford;;King Power Stadium;
+26;Sat;2025-02-22;12:30;Everton;;;;Manchester Utd;;Goodison Park;
+26;Sat;2025-02-22;15:00;Fulham;;;;Crystal Palace;;Craven Cottage;
+26;Sat;2025-02-22;15:00;Ipswich Town;;;;Tottenham;;Portman Road Stadium;
+26;Sat;2025-02-22;15:00;Bournemouth;;;;Wolves;;Vitality Stadium;
+26;Sat;2025-02-22;15:00;Arsenal;;;;West Ham;;Emirates Stadium;
+26;Sat;2025-02-22;15:00;Southampton;;;;Brighton;;St Mary's Stadium;
+26;Sat;2025-02-22;17:30;Aston Villa;;;;Chelsea;;Villa Park;
+27;Tue;2025-02-25;19:45;West Ham;;;;Leicester City;;London Stadium;
+27;Tue;2025-02-25;19:45;Brentford;;;;Everton;;Gtech Community Stadium;
+27;Tue;2025-02-25;19:45;Tottenham;;;;Manchester City;;Tottenham Hotspur Stadium;
+27;Tue;2025-02-25;19:45;Wolves;;;;Fulham;;Molineux Stadium;
+27;Tue;2025-02-25;19:45;Nott'ham Forest;;;;Arsenal;;The City Ground;
+27;Tue;2025-02-25;19:45;Brighton;;;;Bournemouth;;The American Express Stadium;
+27;Tue;2025-02-25;20:00;Crystal Palace;;;;Aston Villa;;Selhurst Park;
+27;Wed;2025-02-26;19:45;Chelsea;;;;Southampton;;Stamford Bridge;
+27;Wed;2025-02-26;20:00;Liverpool;;;;Newcastle Utd;;Anfield;
+27;Wed;2025-02-26;20:00;Manchester Utd;;;;Ipswich Town;;Old Trafford;
+28;Sat;2025-03-08;15:00;Liverpool;;;;Southampton;;Anfield;
+28;Sat;2025-03-08;15:00;Chelsea;;;;Leicester City;;Stamford Bridge;
+28;Sat;2025-03-08;15:00;Wolves;;;;Everton;;Molineux Stadium;
+28;Sat;2025-03-08;15:00;West Ham;;;;Newcastle Utd;;London Stadium;
+28;Sat;2025-03-08;15:00;Tottenham;;;;Bournemouth;;Tottenham Hotspur Stadium;
+28;Sat;2025-03-08;15:00;Manchester Utd;;;;Arsenal;;Old Trafford;
+28;Sat;2025-03-08;15:00;Crystal Palace;;;;Ipswich Town;;Selhurst Park;
+28;Sat;2025-03-08;15:00;Nott'ham Forest;;;;Manchester City;;The City Ground;
+28;Sat;2025-03-08;15:00;Brighton;;;;Fulham;;The American Express Stadium;
+28;Sat;2025-03-08;15:00;Brentford;;;;Aston Villa;;Gtech Community Stadium;
+29;Sat;2025-03-15;15:00;Arsenal;;;;Chelsea;;Emirates Stadium;
+29;Sat;2025-03-15;15:00;Aston Villa;;;;Liverpool;;Villa Park;
+29;Sat;2025-03-15;15:00;Fulham;;;;Tottenham;;Craven Cottage;
+29;Sat;2025-03-15;15:00;Newcastle Utd;;;;Crystal Palace;;St James' Park;
+29;Sat;2025-03-15;15:00;Leicester City;;;;Manchester Utd;;King Power Stadium;
+29;Sat;2025-03-15;15:00;Manchester City;;;;Brighton;;Etihad Stadium;
+29;Sat;2025-03-15;15:00;Ipswich Town;;;;Nott'ham Forest;;Portman Road Stadium;
+29;Sat;2025-03-15;15:00;Everton;;;;West Ham;;Goodison Park;
+29;Sat;2025-03-15;15:00;Southampton;;;;Wolves;;St Mary's Stadium;
+29;Sat;2025-03-15;15:00;Bournemouth;;;;Brentford;;Vitality Stadium;
+30;Tue;2025-04-01;19:45;Brighton;;;;Aston Villa;;The American Express Stadium;
+30;Tue;2025-04-01;19:45;Bournemouth;;;;Ipswich Town;;Vitality Stadium;
+30;Tue;2025-04-01;19:45;Wolves;;;;West Ham;;Molineux Stadium;
+30;Tue;2025-04-01;19:45;Arsenal;;;;Fulham;;Emirates Stadium;
+30;Tue;2025-04-01;19:45;Nott'ham Forest;;;;Manchester Utd;;The City Ground;
+30;Wed;2025-04-02;19:45;Southampton;;;;Crystal Palace;;St Mary's Stadium;
+30;Wed;2025-04-02;19:45;Chelsea;;;;Tottenham;;Stamford Bridge;
+30;Wed;2025-04-02;19:45;Manchester City;;;;Leicester City;;Etihad Stadium;
+30;Wed;2025-04-02;19:45;Newcastle Utd;;;;Brentford;;St James' Park;
+30;Wed;2025-04-02;20:00;Liverpool;;;;Everton;;Anfield;
+31;Sat;2025-04-05;15:00;West Ham;;;;Bournemouth;;London Stadium;
+31;Sat;2025-04-05;15:00;Manchester Utd;;;;Manchester City;;Old Trafford;
+31;Sat;2025-04-05;15:00;Brentford;;;;Chelsea;;Gtech Community Stadium;
+31;Sat;2025-04-05;15:00;Aston Villa;;;;Nott'ham Forest;;Villa Park;
+31;Sat;2025-04-05;15:00;Everton;;;;Arsenal;;Goodison Park;
+31;Sat;2025-04-05;15:00;Fulham;;;;Liverpool;;Craven Cottage;
+31;Sat;2025-04-05;15:00;Ipswich Town;;;;Wolves;;Portman Road Stadium;
+31;Sat;2025-04-05;15:00;Leicester City;;;;Newcastle Utd;;King Power Stadium;
+31;Sat;2025-04-05;15:00;Crystal Palace;;;;Brighton;;Selhurst Park;
+31;Sat;2025-04-05;15:00;Tottenham;;;;Southampton;;Tottenham Hotspur Stadium;
+32;Sat;2025-04-12;15:00;Bournemouth;;;;Fulham;;Vitality Stadium;
+32;Sat;2025-04-12;15:00;Newcastle Utd;;;;Manchester Utd;;St James' Park;
+32;Sat;2025-04-12;15:00;Arsenal;;;;Brentford;;Emirates Stadium;
+32;Sat;2025-04-12;15:00;Liverpool;;;;West Ham;;Anfield;
+32;Sat;2025-04-12;15:00;Wolves;;;;Tottenham;;Molineux Stadium;
+32;Sat;2025-04-12;15:00;Brighton;;;;Leicester City;;The American Express Stadium;
+32;Sat;2025-04-12;15:00;Manchester City;;;;Crystal Palace;;Etihad Stadium;
+32;Sat;2025-04-12;15:00;Nott'ham Forest;;;;Everton;;The City Ground;
+32;Sat;2025-04-12;15:00;Chelsea;;;;Ipswich Town;;Stamford Bridge;
+32;Sat;2025-04-12;15:00;Southampton;;;;Aston Villa;;St Mary's Stadium;
+33;Sat;2025-04-19;15:00;Leicester City;;;;Liverpool;;King Power Stadium;
+33;Sat;2025-04-19;15:00;Ipswich Town;;;;Arsenal;;Portman Road Stadium;
+33;Sat;2025-04-19;15:00;Brentford;;;;Brighton;;Gtech Community Stadium;
+33;Sat;2025-04-19;15:00;Aston Villa;;;;Newcastle Utd;;Villa Park;
+33;Sat;2025-04-19;15:00;Tottenham;;;;Nott'ham Forest;;Tottenham Hotspur Stadium;
+33;Sat;2025-04-19;15:00;West Ham;;;;Southampton;;London Stadium;
+33;Sat;2025-04-19;15:00;Crystal Palace;;;;Bournemouth;;Selhurst Park;
+33;Sat;2025-04-19;15:00;Everton;;;;Manchester City;;Goodison Park;
+33;Sat;2025-04-19;15:00;Fulham;;;;Chelsea;;Craven Cottage;
+33;Sat;2025-04-19;15:00;Manchester Utd;;;;Wolves;;Old Trafford;
+34;Sat;2025-04-26;15:00;Chelsea;;;;Everton;;Stamford Bridge;
+34;Sat;2025-04-26;15:00;Wolves;;;;Leicester City;;Molineux Stadium;
+34;Sat;2025-04-26;15:00;Newcastle Utd;;;;Ipswich Town;;St James' Park;
+34;Sat;2025-04-26;15:00;Manchester City;;;;Aston Villa;;Etihad Stadium;
+34;Sat;2025-04-26;15:00;Liverpool;;;;Tottenham;;Anfield;
+34;Sat;2025-04-26;15:00;Arsenal;;;;Crystal Palace;;Emirates Stadium;
+34;Sat;2025-04-26;15:00;Bournemouth;;;;Manchester Utd;;Vitality Stadium;
+34;Sat;2025-04-26;15:00;Southampton;;;;Fulham;;St Mary's Stadium;
+34;Sat;2025-04-26;15:00;Nott'ham Forest;;;;Brentford;;The City Ground;
+34;Sat;2025-04-26;15:00;Brighton;;;;West Ham;;The American Express Stadium;
+35;Sat;2025-05-03;15:00;Chelsea;;;;Liverpool;;Stamford Bridge;
+35;Sat;2025-05-03;15:00;Brentford;;;;Manchester Utd;;Gtech Community Stadium;
+35;Sat;2025-05-03;15:00;Manchester City;;;;Wolves;;Etihad Stadium;
+35;Sat;2025-05-03;15:00;West Ham;;;;Tottenham;;London Stadium;
+35;Sat;2025-05-03;15:00;Crystal Palace;;;;Nott'ham Forest;;Selhurst Park;
+35;Sat;2025-05-03;15:00;Arsenal;;;;Bournemouth;;Emirates Stadium;
+35;Sat;2025-05-03;15:00;Everton;;;;Ipswich Town;;Goodison Park;
+35;Sat;2025-05-03;15:00;Aston Villa;;;;Fulham;;Villa Park;
+35;Sat;2025-05-03;15:00;Brighton;;;;Newcastle Utd;;The American Express Stadium;
+35;Sat;2025-05-03;15:00;Leicester City;;;;Southampton;;King Power Stadium;
+36;Sat;2025-05-10;15:00;Liverpool;;;;Arsenal;;Anfield;
+36;Sat;2025-05-10;15:00;Southampton;;;;Manchester City;;St Mary's Stadium;
+36;Sat;2025-05-10;15:00;Tottenham;;;;Crystal Palace;;Tottenham Hotspur Stadium;
+36;Sat;2025-05-10;15:00;Fulham;;;;Everton;;Craven Cottage;
+36;Sat;2025-05-10;15:00;Newcastle Utd;;;;Chelsea;;St James' Park;
+36;Sat;2025-05-10;15:00;Nott'ham Forest;;;;Leicester City;;The City Ground;
+36;Sat;2025-05-10;15:00;Manchester Utd;;;;West Ham;;Old Trafford;
+36;Sat;2025-05-10;15:00;Bournemouth;;;;Aston Villa;;Vitality Stadium;
+36;Sat;2025-05-10;15:00;Ipswich Town;;;;Brentford;;Portman Road Stadium;
+36;Sat;2025-05-10;15:00;Wolves;;;;Brighton;;Molineux Stadium;
+37;Sun;2025-05-18;15:00;Brentford;;;;Fulham;;Gtech Community Stadium;
+37;Sun;2025-05-18;15:00;Arsenal;;;;Newcastle Utd;;Emirates Stadium;
+37;Sun;2025-05-18;15:00;Brighton;;;;Liverpool;;The American Express Stadium;
+37;Sun;2025-05-18;15:00;Leicester City;;;;Ipswich Town;;King Power Stadium;
+37;Sun;2025-05-18;15:00;West Ham;;;;Nott'ham Forest;;London Stadium;
+37;Sun;2025-05-18;15:00;Everton;;;;Southampton;;Goodison Park;
+37;Sun;2025-05-18;15:00;Aston Villa;;;;Tottenham;;Villa Park;
+37;Sun;2025-05-18;15:00;Chelsea;;;;Manchester Utd;;Stamford Bridge;
+37;Sun;2025-05-18;15:00;Manchester City;;;;Bournemouth;;Etihad Stadium;
+37;Sun;2025-05-18;15:00;Crystal Palace;;;;Wolves;;Selhurst Park;
+38;Sun;2025-05-25;16:00;Southampton;;;;Arsenal;;St Mary's Stadium;
+38;Sun;2025-05-25;16:00;Liverpool;;;;Crystal Palace;;Anfield;
+38;Sun;2025-05-25;16:00;Ipswich Town;;;;West Ham;;Portman Road Stadium;
+38;Sun;2025-05-25;16:00;Bournemouth;;;;Leicester City;;Vitality Stadium;
+38;Sun;2025-05-25;16:00;Newcastle Utd;;;;Everton;;St James' Park;
+38;Sun;2025-05-25;16:00;Fulham;;;;Manchester City;;Craven Cottage;
+38;Sun;2025-05-25;16:00;Nott'ham Forest;;;;Chelsea;;The City Ground;
+38;Sun;2025-05-25;16:00;Manchester Utd;;;;Aston Villa;;Old Trafford;
+38;Sun;2025-05-25;16:00;Wolves;;;;Brentford;;Molineux Stadium;
+38;Sun;2025-05-25;16:00;Tottenham;;;;Brighton;;Tottenham Hotspur Stadium;
