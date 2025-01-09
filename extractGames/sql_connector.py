@@ -5,21 +5,30 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-mydb = mysql.connector.connect(
-  host=os.getenv('host'),
-  user=os.getenv('user'),
-  password=os.getenv('password'),
-  database=os.getenv('database')
-)
+try:
+    mydb = mysql.connector.connect(
+        host=os.getenv('host'),
+        user=os.getenv('user'),
+        port=os.getenv('dbport'),
+        password=os.getenv('password'),
+        database=os.getenv('database'),
+        ssl_ca="ca-certificate.crt",
+        ssl_disabled=False,
+    )
+    print("Conexión exitosa!")
+except mysql.connector.Error as err:
+    print(f"Error de conexión: {err}")
+
+
 
 def createTable(tableName, df):
   createTableIfNotExist(tableName)
-
+  tableNameLower = tableName.lower()
   cursor = mydb.cursor()
-  cursor.execute(f"DELETE FROM games_{tableName}")
+  cursor.execute(f"DELETE FROM games_{tableNameLower}")
 
   sql = f"""
-  INSERT INTO games_{tableName} 
+  INSERT INTO games_{tableNameLower} 
   (Wk,Day,Date,Time,Home,Home_xG,Away_xG,Score,Away,Attendance,Venue,Referee) 
   VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
   """
@@ -49,9 +58,10 @@ def createTable(tableName, df):
 
 def createTableIfNotExist(tableName):
   mycursor = mydb.cursor()
-
+  tableNameLower = tableName.lower()
   mycursor.execute(f"""
-  CREATE TABLE IF NOT EXISTS games_{tableName} (
+  CREATE TABLE IF NOT EXISTS games_{tableNameLower} (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     Wk INT NOT NULL,
     Day VARCHAR(10) NOT NULL,
     Date DATE NOT NULL,

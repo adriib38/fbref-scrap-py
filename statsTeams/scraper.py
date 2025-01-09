@@ -24,6 +24,8 @@ def extractStatsTeam(comp):
             rows.append(cells)
 
     df = pd.DataFrame(rows, columns=columns)
+    #Cambiar , por . en Min
+    df['Min'] = df['Min'].str.replace(",", ".").astype(float)
     path = "results/stats-table/" + comp.get('name', 'name') + ".csv"
     df.rename(columns={'# Pl': 'Pl','G+A': 'G_plus_A'}, inplace=True)
 

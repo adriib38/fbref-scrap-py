@@ -27,6 +27,8 @@ def extractGames(comp):
         df['Home'].notna() & (df['Home'] != '')
     ]
     df_filtered = df_filtered.drop(columns=['Notes', 'Match Report'])
+    #Si no es '' Cambiar , por . en Attendance
+    df_filtered['Attendance'] = df_filtered['Attendance'].apply(lambda x: x.replace(",", ".") if x != '' else x)
     #Rename first "xG" - Home_xG and "xG.1" - Away_xG
     df_filtered.columns.values[5] = "Home_xG"  # Índice de la primera columna 'xG'
     df_filtered.columns.values[7] = "Away_xG"  # Índice de la segunda columna 'xG'

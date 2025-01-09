@@ -26,6 +26,7 @@ def extractTable(comp):
         rows.append(cells)
 
     df = pd.DataFrame(rows, columns=columns)
+    df = df.drop(columns=["Notes"])
     path = "results/classification/" + comp.get('name', 'name') + ".csv"
     df.rename(columns={'Pts/MP': 'Pts_MP', 'Last 5': 'Last_5', 'Top Team Scorer': 'Top_Team_Scorer', 'xGD/90': 'xGD_90'}, inplace=True)
 
