@@ -11,9 +11,9 @@ try:
         host=os.getenv('host'),
         user=os.getenv('user'),
         password=os.getenv('password'),
-        port=os.getenv('dbport'),
+        # port=os.getenv('dbport'),
         database=os.getenv('database'),
-        ssl_ca="ca-certificate.crt",
+        # ssl_ca="ca-certificate.crt",
         ssl_disabled=False,
     )
     print("Conexión exitosa!")
@@ -21,10 +21,10 @@ except mysql.connector.Error as err:
     print(f"Error de conexión: {err}")
 
 def createTable(tableName, df):
-  createTableIfNotExist(tableName)
+  tableNameLower = tableName.lower()
+  createTableIfNotExist(tableNameLower)
 
   cursor = mydb.cursor()
-  tableNameLower = tableName.lower()
   cursor.execute(f"DELETE FROM {tableNameLower}")
 
   sql = f"""

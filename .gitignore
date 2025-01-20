@@ -1,8 +1,35 @@
-venv
-myenv
-.env
-__pycache__
 results/*
 !results/
 results/**/
 results/**/*.csv
+
+# Entornos virtuales
+venv/
+.env/
+entorno
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de configuración o entornos locales
+.env
+*.env
+*.ini
+*.cfg
+
+# Logs y dumps
+*.log
+*.out
+*.txt
+*.db
+
+# Archivos de herramientas y configuraciones locales
+.idea/
+.vscode/
+*.swp
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db

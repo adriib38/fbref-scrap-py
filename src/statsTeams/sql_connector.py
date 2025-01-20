@@ -9,10 +9,10 @@ try:
     mydb = mysql.connector.connect(
         host=os.getenv('host'),
         user=os.getenv('user'),
-        port=os.getenv('dbport'),
+        # port=os.getenv('dbport'),
         password=os.getenv('password'),
         database=os.getenv('database'),
-        ssl_ca="ca-certificate.crt",
+        # ssl_ca="ca-certificate.crt",
         ssl_disabled=False,
     )
     print("Conexión exitosa!")
