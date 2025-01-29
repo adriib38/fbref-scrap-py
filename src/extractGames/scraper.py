@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import csv
-from extractGames.sql_connector import createTable
+from sql_connector import createTable
 
 def extractGames(comp):
     print(f"Getting games - {comp}")
@@ -29,9 +29,13 @@ def extractGames(comp):
     df_filtered = df_filtered.drop(columns=['Notes', 'Match Report'])
     #Si no es '' Cambiar , por . en Attendance
     df_filtered['Attendance'] = df_filtered['Attendance'].apply(lambda x: x.replace(",", ".") if x != '' else x)
-    #Rename first "xG" - Home_xG and "xG.1" - Away_xG
-    df_filtered.columns.values[5] = "Home_xG"  # Índice de la primera columna 'xG'
-    df_filtered.columns.values[7] = "Away_xG"  # Índice de la segunda columna 'xG'
+
+    #Si existe la columna xG renombrarla a Home_xG y un segundo xG a Away_xG
+    if 'xG' in df_filtered.columns:
+        df_filtered.rename(columns={'xG': 'Home_xG'}, inplace=True)
+    if 'xG.1' in df_filtered.columns:
+        df_filtered.rename(columns={'xG.1': 'Away_xG'}, inplace=True)
+
 
     path = "results/games/" + comp.get('name', 'name') + ".csv"
     # df.rename(columns={'Pts/MP': 'Pts_MP', 'Last 5': 'Last_5', 'Top Team Scorer': 'Top_Team_Scorer', 'xGD/90': 'xGD_90'}, inplace=True)
@@ -43,5 +47,5 @@ def saveInBBDD(comp):
     df = pd.read_csv(file_path, sep=";")
 
     print("Saving results...")
-    createTable(comp, df)
+    createTable(comp, df, "games_")
 
