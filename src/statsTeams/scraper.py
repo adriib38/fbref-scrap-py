@@ -36,5 +36,5 @@ def saveInBBDD(comp):
     df = pd.read_csv(file_path, sep=";")
 
     print("Saving results...")
-    createTable(comp, df, "statsTeam_")
+    createTable(comp, df, "statsteam_")
 
