@@ -1,9 +1,6 @@
 from utils import loadYaml
-
 from classificationTable.scraper import extractTable, saveInBBDD as saveClassificationTableInBBDD
-
 from statsTeams.scraper import extractStatsTeam, saveInBBDD as saveStatsTeamsInBBDD
-
 from extractGames.scraper import extractGames, saveInBBDD as saveGamesInBBDD
 
 def init():

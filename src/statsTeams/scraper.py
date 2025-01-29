@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import csv
-from statsTeams.sql_connector import createTable
+from sql_connector import createTable
 
 def extractStatsTeam(comp):
     print(f"Getting stats table - {comp}")
@@ -36,5 +36,5 @@ def saveInBBDD(comp):
     df = pd.read_csv(file_path, sep=";")
 
     print("Saving results...")
-    createTable(comp, df)
+    createTable(comp, df, "statsTeam_")
 
