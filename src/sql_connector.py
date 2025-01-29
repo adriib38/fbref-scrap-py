@@ -63,7 +63,8 @@ def createTableIfNotExist(tableName, df):
 
   mycursor.execute(f"""
   CREATE TABLE IF NOT EXISTS {tableName} (
-      {columns_sql},
-      created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        {columns_sql},
+        created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
   );
   """)
